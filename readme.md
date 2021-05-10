@@ -7,7 +7,7 @@
 
 > ***Note:*** _This can be a pair programming activity or done independently._
 
-Today you have learnt Strings and functions so you are ready to solve a lot of new problems. Today's lab will have lots of exercises that are increasingly difficult.
+Today you have learnt Strings and functions so you are ready to solve a lot of new problems. Today's lab will have lots of exercises that increase in difficulty.
 
 Ready?
 
