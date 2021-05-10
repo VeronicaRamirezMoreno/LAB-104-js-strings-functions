@@ -42,7 +42,7 @@ Create the following functions:
 
 ### 1.1/ **removeFirstAndLastChar(string)**
 
-This function have to removes the first and last characters of a string. 
+This function has to remove the first and last characters of a string. 
 
 You're given one parameter, the original string. 
 
@@ -50,7 +50,7 @@ In case your parameter has less than two characters return empty string.
 
 ### 1.2/ **moreNerdy(string)** 
 
-This function have to make your strings more nerdy: Replace all:
+This function has to make your strings more nerdy: Replace all:
   - `'a'` or `'A'` with `4`
   - `'e'` or `'E'` with `3`.
   - `'l'` with `1`. 
@@ -61,7 +61,7 @@ e.g. "Fundamentals" --> "Fund4m3nt41s"
 
 ### 1.3/ **noVowels(string)**. 
 
-This function have to remove all the lowercase and uppercase vowels in a given string.
+This function has to remove all the lowercase and uppercase vowels in a given string.
 
 ```js
 e.g. shortcut("reboot") // --> rbt
