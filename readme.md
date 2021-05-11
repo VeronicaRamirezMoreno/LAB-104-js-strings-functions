@@ -20,11 +20,7 @@ Ready?
 
 You have to solve the different problems in the `starter-code/index.js` file. This Javascript file is included in the `starter-code/index.html`. 
 
-You can easily open the HTML in Chrome, by typing in your terminal:
- 
- ```
- $ open starter-code/index.html
- ```
+To test that it works, click on the Live Server button that is located on the bottom-right corner of VSCode:
 
 After you open it, you can open the `Chrome Developer Tools` and see the `console.log`  of your exercises.
 
@@ -65,7 +61,7 @@ This function has to remove all the lowercase and uppercase vowels in a given st
 
 ```js
 e.g. shortcut("reboot") // --> rbt
-e.g. shortcut("hello") // --> hll
+e.g. shortcut("HELLO") // --> HLL
 ``` 
 
 ---
@@ -135,7 +131,7 @@ Upon completion, run the following commands:
 ```
 $ git add .
 $ git commit -m "done"
-$ git push origin master
+$ git push origin main
 ```
 
 Then create a Pull Request!!
